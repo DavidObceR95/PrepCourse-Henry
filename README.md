@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositiorio de prueba para clase 2 Henry
+Este proyecto es un repositorio de prueba para clonar un repositorio.
